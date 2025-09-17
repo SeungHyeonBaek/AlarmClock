@@ -1,13 +1,7 @@
 # AlarmClock
 
+##현재시간과 알람시간이 일치할 때
+<img width="428" height="883" alt="스크린샷 2025-09-17 오후 12 09 25" src="https://github.com/user-attachments/assets/f9575a20-91f2-4062-9976-6dd9a6b2d0f6" />
 
-<figure>
-    <img src="https://github.com/user-attachments/assets/8facf1db-74de-4b2a-8b93-bc5bec9ad1b0" alt="Alt text" />
-    <figcaption>현재시간과 알람시간이 일치 할 때</figcaption>
-</figure>
-
-
-<figure>
-    <img src="https://github.com/user-attachments/assets/a56ca296-ee5c-4d78-b888-062bc337b8f8" alt="Alt text" />
-    <figcaption>현재시간과 알람시간이 달라졌을 때</figcaption>
-</figure>
+##현재시간과 알람시간이 달라졌을 때
+<img width="428" height="883" alt="스크린샷 2025-09-17 오후 12 10 52" src="https://github.com/user-attachments/assets/21a27582-833e-4989-b47b-adccc407b0c0" />
